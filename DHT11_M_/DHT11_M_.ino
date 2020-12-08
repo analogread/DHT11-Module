@@ -65,4 +65,4 @@ if(t<=29){
   
 }
 
-//ที่มา https://github.com/adafruit/DHT-sensor-libraryhttps://github.com/adafruit/DHT-sensor-library
+
