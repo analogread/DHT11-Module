@@ -1,1 +1,1 @@
-# DHT11-Module
+# DHT22-Module
